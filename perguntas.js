@@ -18,7 +18,7 @@ criaCartao(
 
 criaCartao(
     '裏切り者',
-    'quem traio o bando?',
+    'quem traiu o bando?',
     'micah.'
 )
 
