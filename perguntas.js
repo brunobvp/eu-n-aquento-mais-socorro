@@ -40,14 +40,3 @@ criaCartao(
     'em um espelho na cabana do pântano.'
 )
 
-criaCartao(
-    'Razões Trigonométricas',
-    'Qual o valor de cosseno de 60º?',
-    '1/2.'
-)
-
-criaCartao(
-    'Ordem das Operações',
-    'Qual a ordem das operações matemática, da com maior para a menor prioridade?',
-    'Parênteses, Expoentes, Multiplicação e Divisão, Adição e Subtração.'
-)
